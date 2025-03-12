@@ -1,44 +1,65 @@
-## Hi there 👋
+Olá ,meu nome é Allan Lino Santos. 👋
 
-Eu sou o Allan Lino ,um programador front-end ,atualmente estou aprendendo e criando projetos com:
-<br>
-<br>
+### 💻 Sobre mim
 
-<img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
-<br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css.logo"/>
-<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo"/>
+Estou iniciando na programação e quero desfrutar o máximo que eu puder no mundo da tecnologia.
+- 🤔 Aprendendo novs tecnologias.
+- 😎 Gosto de automatizar tarefas para facilitar a vida.
+- 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+- 👯 Estou procurando elaborar novos projetos 
 
 
-[![Allan Stats](https://github-readme-stats.vercel.app/api?username=Allan009lino)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan009lino)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
 
-<b>###Connect with me </b>
+##
+
+### Pilhas de tecnologia:
+
+<img align="left" alt="html5" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/html5/html5-original.svg" alt="html5" />
+<img align="left" alt="css3" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-original.svg" />
+<img align="left" alt="javascript" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg" />
+<img align="left" alt="react" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/git/git-original.svg" />
+
+<img align="left" alt="Visual Studio Code" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />
+
+
+
+<br />
+<br />
+
+## 
+
+
+### My Stats
 
 <p>
-  <a href ="https://www.instagram.com/allanlinosantos/">
-  <img align ="left" alt=" ícone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg"/> 
-  </a>
-<a href="https://www.linkedin.com/in/allan-lino-115018328/">
-<img align ="left" alt ="linkedin" width ="22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg"/> 
+<a href="https://github.com/Allan009lino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allan009lino&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Allan009lino&theme=radical&layout=compact" />
 </a>
 </p>
-<br />
-<br />
 
-<p align="left">
-<br />
-Languages and Tools:
-</p>
-<div style =" display: inline_block"><br>
-<img align ="center" alt="allan-JS" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align ="center" alt="allan-React" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />                
-<img align ="center" alt="allan-HTML" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />                     
-<img align ="center" alt="allan-CSS" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+##  🤝🏻 Connect with Me
+
+<p>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/allan-lino-115018328/"/><img align="left" alt="LinkedIn" width="44px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/></a>
+<a href="mailto:allanlino250gmail.com"><img align="left" alt="Microsoft Outlook" width="44px" src="https://www.flaticon.com/svg/static/icons/svg/732/732223.svg"/></a>
+
+<a href="https://www.instagram.com/allan_linsantos"><img align="left" alt="Instagram" width="44px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg"/></a>
+
+
+<!-- - 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
            
           
             
@@ -48,7 +69,6 @@ Languages and Tools:
           
 
   
-</div>
           
 
 
