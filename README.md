@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu sou o Allan Lino ,sou um programador front-end ,atualmente estou aprendendo e criando projetos com:
+Eu sou o Allan Lino ,um programador front-end ,atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 
