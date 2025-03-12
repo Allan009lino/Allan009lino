@@ -14,6 +14,18 @@ Eu sou o Allan Lino ,sou um programador front-end ,atualmente estou aprendendo e
 [![Allan Stats](https://github-readme-stats.vercel.app/api?username=Allan009lino)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan009lino)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+
+<b>###Connect with me </b>
+
+<p>
+  <a href ="https://www.instagram.com/allanlinosantos/">
+  <img align ="left" alt=" ícone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg"/> 
+  </a>
+<a href="https://www.linkedin.com/in/allan-lino-115018328/">
+<img align ="left" alt ="linkedin" width ="22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg"/> 
+</a>
 
 
 
