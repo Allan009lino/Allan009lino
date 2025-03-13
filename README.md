@@ -31,7 +31,7 @@ Estou iniciando na programação e quero desfrutar o máximo que eu puder no mun
 ## 
 
 
-### My Stats
+### Minhas estatísticas
 
 <p>
 <a href="https://github.com/Allan009lino">
@@ -41,24 +41,17 @@ Estou iniciando na programação e quero desfrutar o máximo que eu puder no mun
 </p>
 
 
-##  🤝🏻 Connect with Me
+##  🤝🏻 Conecte comigo
 
 <p>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/allan-lino-115018328/"/><img align="left" alt="LinkedIn" width="44px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/></a>
-<a href="mailto:allanlino250gmail.com"><img align="left" alt="Microsoft Outlook" width="44px" src="https://www.flaticon.com/svg/static/icons/svg/732/732223.svg"/></a>
+<a href="mailto:allanlino250@gmail.com"><img align="left" alt="Microsoft Outlook" width="44px" src="https://www.flaticon.com/svg/static/icons/svg/732/732223.svg"/></a>
 
 <a href="https://www.instagram.com/allan_linsantos"><img align="left" alt="Instagram" width="44px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg"/></a>
 
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
 
            
           
